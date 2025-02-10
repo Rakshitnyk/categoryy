@@ -12,4 +12,4 @@ export const Default = Template.bind({});
 Default.args = {
   icon: "/icons/restaurant.png",
   label: "Restaurants",
-};
+}; 
